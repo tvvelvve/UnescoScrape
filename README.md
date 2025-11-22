@@ -1,1 +1,1 @@
-This Python project scrapes the official UNESCO World Heritage Sites list, processes and normalizes the data, and outputs a clean, structured CSV file with enriched information including site type, continent, and country flag emojis.
+This Python project scrapes the official UNESCO World Heritage Sites list, processes the data, and outputs a clean, structured CSV file.
